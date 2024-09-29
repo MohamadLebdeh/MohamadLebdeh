@@ -19,5 +19,5 @@ Let’s collaborate on front-end and back-end projects.<br>Always eager to learn
 </table>
 
 ### ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="800"/>
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
