@@ -17,7 +17,6 @@ Let’s collaborate on front-end and back-end projects.<br>Always eager to learn
     </td>
   </tr>
 </table>
-//
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
