@@ -16,7 +16,7 @@ Let’s collaborate on front-end and back-end projects.<br>Always eager to learn
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamadlebdeh&theme=radical&hide_border=false" />
     </td>
   </tr>
-</table>
+</table> 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
